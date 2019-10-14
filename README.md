@@ -1,1 +1,2 @@
-# Statisti-ni-podatki-igralcev-v-NBA
+# Statistika NBA igralcev
+

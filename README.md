@@ -1,6 +1,6 @@
 # Delnice indeksa Russel 2000
 
-Analiziral bom delnice vsebovane v indeksu Russel 2000 na stranitatistične podatke NBA igralcev skozi zgodovino na strani (https://www.suredividend.com/russell-2000-stocks/).
+Analiziral bom delnice vsebovane v indeksu Russel 2000 na strani (https://www.suredividend.com/russell-2000-stocks/).
 
 Za vsako delnico bom zajel:
 * oznaka na borzi

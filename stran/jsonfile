@@ -1,0 +1,802 @@
+[
+    {
+        "oznaka_na_borzi": "AAN",
+        "cena_delnice": "77.13",
+        "dividendna_donosnost": "0.2",
+        "trzna_kapitalizacija": "5,209.9",
+        "pe_razmerje": "25.6",
+        "div_na_prihodke": "4.7"
+    },
+    {
+        "oznaka_na_borzi": "AAOI",
+        "cena_delnice": "10.16",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "203.8",
+        "pe_razmerje": "-5.9",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AAON",
+        "cena_delnice": "49.32",
+        "dividendna_donosnost": "0.6",
+        "trzna_kapitalizacija": "2,569.9",
+        "pe_razmerje": "50.9",
+        "div_na_prihodke": "33.0"
+    },
+    {
+        "oznaka_na_borzi": "AAT",
+        "cena_delnice": "47.02",
+        "dividendna_donosnost": "2.4",
+        "trzna_kapitalizacija": "2,808.1",
+        "pe_razmerje": "60.5",
+        "div_na_prihodke": "144.1"
+    },
+    {
+        "oznaka_na_borzi": "AAWW",
+        "cena_delnice": "25.70",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "664.4",
+        "pe_razmerje": "1.9",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AAXN",
+        "cena_delnice": "54.45",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "3,244.2",
+        "pe_razmerje": "213.6",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ABCB",
+        "cena_delnice": "44.08",
+        "dividendna_donosnost": "1.0",
+        "trzna_kapitalizacija": "3,064.4",
+        "pe_razmerje": "15.3",
+        "div_na_prihodke": "15.6"
+    },
+    {
+        "oznaka_na_borzi": "ABEO",
+        "cena_delnice": "2.57",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "126.7",
+        "pe_razmerje": "-2.7",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ABG",
+        "cena_delnice": "104.48",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "2,021.5",
+        "pe_razmerje": "11.1",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ABM",
+        "cena_delnice": "37.71",
+        "dividendna_donosnost": "1.9",
+        "trzna_kapitalizacija": "2,504.5",
+        "pe_razmerje": "28.1",
+        "div_na_prihodke": "53.7"
+    },
+    {
+        "oznaka_na_borzi": "ABTX",
+        "cena_delnice": "33.51",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "694.9",
+        "pe_razmerje": "13.8",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AC",
+        "cena_delnice": "39.45",
+        "dividendna_donosnost": "0.5",
+        "trzna_kapitalizacija": "888.2",
+        "pe_razmerje": "-35.5",
+        "div_na_prihodke": "-18.0"
+    },
+    {
+        "oznaka_na_borzi": "ACA",
+        "cena_delnice": "36.26",
+        "dividendna_donosnost": "0.6",
+        "trzna_kapitalizacija": "1,754.5",
+        "pe_razmerje": "19.5",
+        "div_na_prihodke": "10.7"
+    },
+    {
+        "oznaka_na_borzi": "ACAD",
+        "cena_delnice": "42.15",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "6,353.6",
+        "pe_razmerje": "-21.4",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ACBI",
+        "cena_delnice": "18.89",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "419.2",
+        "pe_razmerje": "27.5",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ACCO",
+        "cena_delnice": "9.93",
+        "dividendna_donosnost": "2.4",
+        "trzna_kapitalizacija": "984.0",
+        "pe_razmerje": "9.6",
+        "div_na_prihodke": "23.0"
+    },
+    {
+        "oznaka_na_borzi": "ACER",
+        "cena_delnice": "3.39",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "34.2",
+        "pe_razmerje": "-1.1",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ACHN",
+        "cena_delnice": "6.27",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "877.1",
+        "pe_razmerje": "-12.3",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ACIA",
+        "cena_delnice": "64.98",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "2,669.4",
+        "pe_razmerje": "118.2",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ACIW",
+        "cena_delnice": "31.76",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "3,706.8",
+        "pe_razmerje": "44.6",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ACLS",
+        "cena_delnice": "20.59",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "665.7",
+        "pe_razmerje": "28.0",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ACNB",
+        "cena_delnice": "34.65",
+        "dividendna_donosnost": "3.5",
+        "trzna_kapitalizacija": "245.1",
+        "pe_razmerje": "10.3",
+        "div_na_prihodke": "36.0"
+    },
+    {
+        "oznaka_na_borzi": "ACOR",
+        "cena_delnice": "1.98",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "95.2",
+        "pe_razmerje": "-1.2",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ACRE",
+        "cena_delnice": "15.40",
+        "dividendna_donosnost": "8.4",
+        "trzna_kapitalizacija": "444.6",
+        "pe_razmerje": "11.5",
+        "div_na_prihodke": "96.9"
+    },
+    {
+        "oznaka_na_borzi": "ACRS",
+        "cena_delnice": "1.66",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "68.7",
+        "pe_razmerje": "-0.4",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ACRX",
+        "cena_delnice": "2.19",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "174.0",
+        "pe_razmerje": "-3.1",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ACTG",
+        "cena_delnice": "2.54",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "127.3",
+        "pe_razmerje": "-2.3",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ADC",
+        "cena_delnice": "77.77",
+        "dividendna_donosnost": "2.9",
+        "trzna_kapitalizacija": "3,298.5",
+        "pe_razmerje": "42.9",
+        "div_na_prihodke": "124.2"
+    },
+    {
+        "oznaka_na_borzi": "ADES",
+        "cena_delnice": "14.02",
+        "dividendna_donosnost": "7.1",
+        "trzna_kapitalizacija": "260.5",
+        "pe_razmerje": "7.5",
+        "div_na_prihodke": "53.4"
+    },
+    {
+        "oznaka_na_borzi": "ADMA",
+        "cena_delnice": "4.76",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "282.4",
+        "pe_razmerje": "-3.8",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ADMS",
+        "cena_delnice": "3.94",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "109.4",
+        "pe_razmerje": "-0.9",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ADNT",
+        "cena_delnice": "23.75",
+        "dividendna_donosnost": "1.2",
+        "trzna_kapitalizacija": "2,223.5",
+        "pe_razmerje": "-1.2",
+        "div_na_prihodke": "-1.4"
+    },
+    {
+        "oznaka_na_borzi": "ADRO",
+        "cena_delnice": "0.99",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "79.6",
+        "pe_razmerje": "-0.9",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ADSW",
+        "cena_delnice": "32.82",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "2,926.7",
+        "pe_razmerje": "-296.5",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ADTN",
+        "cena_delnice": "9.43",
+        "dividendna_donosnost": "3.8",
+        "trzna_kapitalizacija": "451.0",
+        "pe_razmerje": "115.3",
+        "div_na_prihodke": "440.1"
+    },
+    {
+        "oznaka_na_borzi": "ADUS",
+        "cena_delnice": "84.19",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "1,103.6",
+        "pe_razmerje": "57.7",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ADVM",
+        "cena_delnice": "7.32",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "471.8",
+        "pe_razmerje": "-7.0",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AEGN",
+        "cena_delnice": "21.68",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "669.8",
+        "pe_razmerje": "-44.7",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AEIS",
+        "cena_delnice": "61.65",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "2,359.8",
+        "pe_razmerje": "23.5",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AEL",
+        "cena_delnice": "25.31",
+        "dividendna_donosnost": "1.1",
+        "trzna_kapitalizacija": "2,302.7",
+        "pe_razmerje": "10.8",
+        "div_na_prihodke": "12.0"
+    },
+    {
+        "oznaka_na_borzi": "AEO",
+        "cena_delnice": "16.11",
+        "dividendna_donosnost": "3.4",
+        "trzna_kapitalizacija": "2,745.6",
+        "pe_razmerje": "10.5",
+        "div_na_prihodke": "35.5"
+    },
+    {
+        "oznaka_na_borzi": "AERI",
+        "cena_delnice": "22.48",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "1,032.7",
+        "pe_razmerje": "-4.3",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AFI",
+        "cena_delnice": "6.26",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "134.6",
+        "pe_razmerje": "-8.1",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AFIN",
+        "cena_delnice": "14.45",
+        "dividendna_donosnost": "8.9",
+        "trzna_kapitalizacija": "1,535.3",
+        "pe_razmerje": "-42.4",
+        "div_na_prihodke": "-376.6"
+    },
+    {
+        "oznaka_na_borzi": "AFMD",
+        "cena_delnice": "2.83",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "176.7",
+        "pe_razmerje": "-7.0",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AGE",
+        "cena_delnice": "1.57",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "59.1",
+        "pe_razmerje": "-4.9",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AGEN",
+        "cena_delnice": "2.44",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "332.3",
+        "pe_razmerje": "-2.6",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AGLE",
+        "cena_delnice": "7.73",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "223.3",
+        "pe_razmerje": "-3.4",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AGM",
+        "cena_delnice": "85.33",
+        "dividendna_donosnost": "3.1",
+        "trzna_kapitalizacija": "913.1",
+        "pe_razmerje": "9.5",
+        "div_na_prihodke": "29.7"
+    },
+    {
+        "oznaka_na_borzi": "AGS",
+        "cena_delnice": "11.54",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "409.0",
+        "pe_razmerje": "-30.0",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AGX",
+        "cena_delnice": "39.05",
+        "dividendna_donosnost": "2.6",
+        "trzna_kapitalizacija": "610.5",
+        "pe_razmerje": "379.1",
+        "div_na_prihodke": "970.9"
+    },
+    {
+        "oznaka_na_borzi": "AGYS",
+        "cena_delnice": "24.09",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "569.9",
+        "pe_razmerje": "-45.9",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AHH",
+        "cena_delnice": "18.28",
+        "dividendna_donosnost": "4.5",
+        "trzna_kapitalizacija": "1,288.2",
+        "pe_razmerje": "57.1",
+        "div_na_prihodke": "259.5"
+    },
+    {
+        "oznaka_na_borzi": "AHT",
+        "cena_delnice": "2.60",
+        "dividendna_donosnost": "13.8",
+        "trzna_kapitalizacija": "265.5",
+        "pe_razmerje": "-1.4",
+        "div_na_prihodke": "-19.7"
+    },
+    {
+        "oznaka_na_borzi": "AI",
+        "cena_delnice": "5.68",
+        "dividendna_donosnost": "21.1",
+        "trzna_kapitalizacija": "208.2",
+        "pe_razmerje": "-4.7",
+        "div_na_prihodke": "-99.7"
+    },
+    {
+        "oznaka_na_borzi": "AIMC",
+        "cena_delnice": "30.82",
+        "dividendna_donosnost": "2.7",
+        "trzna_kapitalizacija": "1,997.7",
+        "pe_razmerje": "23.3",
+        "div_na_prihodke": "64.1"
+    },
+    {
+        "oznaka_na_borzi": "AIMT",
+        "cena_delnice": "28.49",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "1,785.4",
+        "pe_razmerje": "-7.6",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AIN",
+        "cena_delnice": "81.58",
+        "dividendna_donosnost": "0.9",
+        "trzna_kapitalizacija": "2,504.5",
+        "pe_razmerje": "24.1",
+        "div_na_prihodke": "21.3"
+    },
+    {
+        "oznaka_na_borzi": "AIR",
+        "cena_delnice": "41.54",
+        "dividendna_donosnost": "0.7",
+        "trzna_kapitalizacija": "1,452.7",
+        "pe_razmerje": "-396.8",
+        "div_na_prihodke": "-286.5"
+    },
+    {
+        "oznaka_na_borzi": "AIRG",
+        "cena_delnice": "10.76",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "104.5",
+        "pe_razmerje": "38.2",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AIT",
+        "cena_delnice": "57.03",
+        "dividendna_donosnost": "2.2",
+        "trzna_kapitalizacija": "2,204.3",
+        "pe_razmerje": "15.3",
+        "div_na_prihodke": "33.1"
+    },
+    {
+        "oznaka_na_borzi": "AJRD",
+        "cena_delnice": "45.36",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "3,568.7",
+        "pe_razmerje": "20.6",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AJX",
+        "cena_delnice": "15.56",
+        "dividendna_donosnost": "8.5",
+        "trzna_kapitalizacija": "305.8",
+        "pe_razmerje": "8.9",
+        "div_na_prihodke": "75.9"
+    },
+    {
+        "oznaka_na_borzi": "AKBA",
+        "cena_delnice": "4.02",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "477.8",
+        "pe_razmerje": "-1.7",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AKCA",
+        "cena_delnice": "18.49",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "1,720.2",
+        "pe_razmerje": "-10.4",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AKR",
+        "cena_delnice": "27.93",
+        "dividendna_donosnost": "4.0",
+        "trzna_kapitalizacija": "2,420.0",
+        "pe_razmerje": "63.4",
+        "div_na_prihodke": "254.1"
+    },
+    {
+        "oznaka_na_borzi": "AKRX",
+        "cena_delnice": "4.73",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "596.7",
+        "pe_razmerje": "-1.2",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AKS",
+        "cena_delnice": "2.66",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "847.9",
+        "pe_razmerje": "5.2",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AKTS",
+        "cena_delnice": "8.36",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "254.6",
+        "pe_razmerje": "-7.8",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ALBO",
+        "cena_delnice": "18.08",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "229.4",
+        "pe_razmerje": "-3.5",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ALCO",
+        "cena_delnice": "31.82",
+        "dividendna_donosnost": "0.8",
+        "trzna_kapitalizacija": "237.9",
+        "pe_razmerje": "10.8",
+        "div_na_prihodke": "8.2"
+    },
+    {
+        "oznaka_na_borzi": "ALDR",
+        "cena_delnice": "18.88",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "1,578.5",
+        "pe_razmerje": "-4.2",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ALDX",
+        "cena_delnice": "5.88",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "162.2",
+        "pe_razmerje": "-3.0",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ALE",
+        "cena_delnice": "85.43",
+        "dividendna_donosnost": "3.4",
+        "trzna_kapitalizacija": "4,413.0",
+        "pe_razmerje": "22.4",
+        "div_na_prihodke": "76.3"
+    },
+    {
+        "oznaka_na_borzi": "ALEC",
+        "cena_delnice": "16.19",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "1,114.4",
+        "pe_razmerje": "",
+        "div_na_prihodke": ""
+    },
+    {
+        "oznaka_na_borzi": "ALEX",
+        "cena_delnice": "24.44",
+        "dividendna_donosnost": "2.8",
+        "trzna_kapitalizacija": "1,765.6",
+        "pe_razmerje": "-15.3",
+        "div_na_prihodke": "-43.1"
+    },
+    {
+        "oznaka_na_borzi": "ALG",
+        "cena_delnice": "124.18",
+        "dividendna_donosnost": "0.4",
+        "trzna_kapitalizacija": "1,462.2",
+        "pe_razmerje": "19.1",
+        "div_na_prihodke": "7.4"
+    },
+    {
+        "oznaka_na_borzi": "ALGT",
+        "cena_delnice": "171.38",
+        "dividendna_donosnost": "2.0",
+        "trzna_kapitalizacija": "2,784.2",
+        "pe_razmerje": "13.1",
+        "div_na_prihodke": "26.8"
+    },
+    {
+        "oznaka_na_borzi": "ALLK",
+        "cena_delnice": "73.72",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "3,568.9",
+        "pe_razmerje": "-46.1",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ALLO",
+        "cena_delnice": "28.59",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "3,480.8",
+        "pe_razmerje": "-19.5",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ALOT",
+        "cena_delnice": "15.86",
+        "dividendna_donosnost": "1.8",
+        "trzna_kapitalizacija": "111.8",
+        "pe_razmerje": "17.3",
+        "div_na_prihodke": "30.6"
+    },
+    {
+        "oznaka_na_borzi": "ALRM",
+        "cena_delnice": "49.11",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "2,381.2",
+        "pe_razmerje": "102.9",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ALTM",
+        "cena_delnice": "2.38",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "773.3",
+        "pe_razmerje": "-25.3",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ALTR",
+        "cena_delnice": "36.12",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "2,587.5",
+        "pe_razmerje": "396.1",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "ALX",
+        "cena_delnice": "335.23",
+        "dividendna_donosnost": "6.7",
+        "trzna_kapitalizacija": "1,712.0",
+        "pe_razmerje": "30.9",
+        "div_na_prihodke": "207.1"
+    },
+    {
+        "oznaka_na_borzi": "AMAG",
+        "cena_delnice": "13.33",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "452.0",
+        "pe_razmerje": "-1.4",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AMAL",
+        "cena_delnice": "17.43",
+        "dividendna_donosnost": "1.4",
+        "trzna_kapitalizacija": "540.4",
+        "pe_razmerje": "12.7",
+        "div_na_prihodke": "18.0"
+    },
+    {
+        "oznaka_na_borzi": "AMBA",
+        "cena_delnice": "53.60",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "1,772.0",
+        "pe_razmerje": "-42.4",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AMBC",
+        "cena_delnice": "20.10",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "915.6",
+        "pe_razmerje": "-3.1",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AMC",
+        "cena_delnice": "9.91",
+        "dividendna_donosnost": "10.1",
+        "trzna_kapitalizacija": "1,029.2",
+        "pe_razmerje": "181.8",
+        "div_na_prihodke": "1,834.9"
+    },
+    {
+        "oznaka_na_borzi": "AMED",
+        "cena_delnice": "134.25",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "4,319.5",
+        "pe_razmerje": "34.6",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AMEH",
+        "cena_delnice": "14.96",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "537.1",
+        "pe_razmerje": "50.9",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AMKR",
+        "cena_delnice": "14.06",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "2,655.9",
+        "pe_razmerje": "67.3",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AMN",
+        "cena_delnice": "58.23",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "2,717.1",
+        "pe_razmerje": "21.6",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AMNB",
+        "cena_delnice": "36.48",
+        "dividendna_donosnost": "2.8",
+        "trzna_kapitalizacija": "405.5",
+        "pe_razmerje": "18.9",
+        "div_na_prihodke": "52.8"
+    },
+    {
+        "oznaka_na_borzi": "AMOT",
+        "cena_delnice": "37.84",
+        "dividendna_donosnost": "0.3",
+        "trzna_kapitalizacija": "363.3",
+        "pe_razmerje": "21.5",
+        "div_na_prihodke": "6.8"
+    },
+    {
+        "oznaka_na_borzi": "AMPH",
+        "cena_delnice": "19.65",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "928.0",
+        "pe_razmerje": "17.5",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AMRC",
+        "cena_delnice": "15.24",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "704.5",
+        "pe_razmerje": "19.7",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AMRS",
+        "cena_delnice": "3.76",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "381.5",
+        "pe_razmerje": "-1.1",
+        "div_na_prihodke": "0.0"
+    },
+    {
+        "oznaka_na_borzi": "AMRX",
+        "cena_delnice": "3.19",
+        "dividendna_donosnost": "0.0",
+        "trzna_kapitalizacija": "976.1",
+        "pe_razmerje": "-6.1",
+        "div_na_prihodke": "0.0"
+    }
+]

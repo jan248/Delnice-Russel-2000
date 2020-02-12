@@ -1,10 +1,10 @@
 import orodja
 import re
 
-url_link = "C:\\Users\\jansk\\Documents\\GitHub\\Delnice-Russel-2000\\stran\\page_source"
+url_link = "C:\\Users\\jansk\\Documents\\GitHub\\Delnice-Russel-2000\\stran\\page_source.html"
 
 def pridobi_stran(url):
-    orodja.shrani_spletno_stran(url,url_link, False)
+    orodja.shrani_spletno_stran(url,url_link, True)
 
 def pridobi_podatke():
     vsebina = orodja.vsebina_datoteke(url_link)
@@ -19,19 +19,20 @@ def pridobi_podatke():
         r'\s*<td style="">(?P<div_na_prihodke>.*)</td>\n'
     )
 
-    final = []
+    finale = []
 
     for match in re.finditer(reg, vsebina):
-        final.append(match.groupdict())
-    return final
+        finale.append(match.groupdict())
+    print(finale)
+    return finale
 
 
 def main():
     pridobi_stran("https://www.suredividend.com/russell-2000-stocks/")
     final = pridobi_podatke()
 
-    orodja.zapisi_json(final, "C:\\Users\\jansk\\Documents\\GitHub\\Delnice-Russel-2000\\stran\\jsonfile" )
-    orodja.zapisi_csv(final, final[0].keys(), "C:\\Users\\jansk\\Documents\\GitHub\\Delnice-Russel-2000\\stran\\csv_file")
+    orodja.zapisi_json(final, "C:\\Users\\jansk\\Documents\\GitHub\\Delnice-Russel-2000\\stran\\jsonfile.json" )
+    orodja.zapisi_csv(final, final[0].keys(), "C:\\Users\\jansk\\Documents\\GitHub\\Delnice-Russel-2000\\stran\\csv_file.csv")
 
 if __name__== "__main__":
   main()
